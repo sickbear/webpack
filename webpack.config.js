@@ -1,6 +1,6 @@
 'use strict';
 
-const enableImageCompress = true; // включить сжатие изображений
+const enableImageCompress = false; // включить сжатие изображений для режима production
 
 const path = require('path');
 const glob = require('glob');
